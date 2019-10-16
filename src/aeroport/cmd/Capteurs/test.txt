@@ -1,0 +1,6 @@
+{
+	"brokerAddress" : "localhost",
+	"brokerPort" : "1883",
+	"qualityOfService" : "0",
+	"clientId" : "temperature"
+}
